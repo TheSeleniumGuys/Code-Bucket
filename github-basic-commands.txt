@@ -1,4 +1,5 @@
 This file assumes you're using the desktop Git Shell.
+These are the core basic commands for maintaining your repo.
 
 1) git clone <repo url>
 ------------------------
